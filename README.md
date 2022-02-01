@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌌 Back-end Software 
+- 🌌 Back-end Software Engineer
 - 🌱 I'm constantly working and learning about Java, Kotlin and Python
 - 🍃 Already had fun with Html, Css and Javascript
 
