@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 - 🌌 Back-end Software Engineer
-- 🌱 I'm constantly working and learning about Java, Kotlin and Python
-- 🍃 Already had fun with Html, Css and Javascript
+- 📖 Constantly learning about Java, Kotlin and Python
+- 💳 Passionate about payments and how they impact people’s lives 
+- 🎢 Already had fun with Front-End (HTML, CSS and Javascript) and some UX Design
+- 🧲 Experience with SQL (Postgresql) and NoSQL (MongoDB and DynamoDB)
+- 👨‍🏭 Electronic's Technician (A huge fan of PIC, Arduino and Raspberry Pi projects)
 
 ##
 <div align="center">
