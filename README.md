@@ -5,13 +5,6 @@
 - 🎢 Already had fun with front-end (HTML, CSS and Javascript) and some UX Design
 - 🧲 Experience with SQL (Postgresql) and NoSQL (MongoDB and DynamoDB)
 - 👨‍🏭 Electronic's Technician (huge fan of PIC, Arduino and Raspberry Pi projects)
-
-##
-<div align="center">
-  <a href="https://github.com/mdevillart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdevillart&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevillart&layout=swift&langs_count=7&theme=apprentice"/>
-</div>
   
 ##
 <div style="display: inline_block"><br>
