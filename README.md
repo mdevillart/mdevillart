@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌌 I'm a back-end Software Engineer who is constantly learning about Java, Kotlin and Python
+- 🌌 I'm a back-end Software Engineer who is constantly learning about Java & Kotlin
 - 💳 Passionate about payments and how they impact people’s lives 
 - 🎢 Already had fun with front-end (HTML, CSS and Javascript) and some UX Design
 - 🧲 Experience with SQL (Postgresql) and NoSQL (MongoDB and DynamoDB)
